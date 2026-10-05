@@ -1,0 +1,39 @@
+{
+ "region": "test-luzon",
+ "name": "Test — Central Luzon",
+ "version": "2026-10-05",
+ "bbox": [
+  120,
+  14,
+  122,
+  16
+ ],
+ "seaTiles": [],
+ "files": [
+  {
+   "path": "terrain/N14E120.lrt",
+   "bytes": 3598406,
+   "sha256": "84e73eed929a11c08f2cf55150d2ceb1596e58bf3dfcc8718c7629a9bd55fd49"
+  },
+  {
+   "path": "terrain/N14E121.lrt",
+   "bytes": 6623783,
+   "sha256": "468abcc5ef4ea8455ce5e481a91d1b18e6a24793d633dd9b21160e87629be003"
+  },
+  {
+   "path": "terrain/N15E120.lrt",
+   "bytes": 7124040,
+   "sha256": "436c907c46860c5c0e3dc08d1e2ccf7d7a42318a09a727923d2c1f2a2fe51234"
+  },
+  {
+   "path": "terrain/N15E121.lrt",
+   "bytes": 5763737,
+   "sha256": "79114f7e9e8d632b457ccfe64a55a1aeedc11125f60b6ed7e4c18cb74540e761"
+  },
+  {
+   "path": "topo.pmtiles",
+   "bytes": 62742271,
+   "sha256": "c57b630f6cf1919302de0b53d0d89b77e6fa865f0737973903af195913d9379d"
+  }
+ ]
+}
