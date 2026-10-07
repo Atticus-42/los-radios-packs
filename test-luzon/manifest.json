@@ -1,7 +1,7 @@
 {
  "region": "test-luzon",
  "name": "Test — Central Luzon",
- "version": "2026-10-05",
+ "version": "2026-10-07",
  "bbox": [
   120,
   14,
@@ -29,6 +29,26 @@
    "path": "terrain/N15E121.lrt",
    "bytes": 5763737,
    "sha256": "79114f7e9e8d632b457ccfe64a55a1aeedc11125f60b6ed7e4c18cb74540e761"
+  },
+  {
+   "path": "landcover/N14E120.lcv",
+   "bytes": 112513,
+   "sha256": "a375825b73205a547b6c774ab270aeee1f77589e2eaf5dd2f5de5cfca2d0560d"
+  },
+  {
+   "path": "landcover/N14E121.lcv",
+   "bytes": 92805,
+   "sha256": "b3125e2aa97d84014aefc26be0ec22ba614b8c2173061266014e705a52aece30"
+  },
+  {
+   "path": "landcover/N15E120.lcv",
+   "bytes": 215221,
+   "sha256": "ece19d82e122d36eb442cad31cee3251fe9ad7c6cd93876cf9795eb8dc9d19b3"
+  },
+  {
+   "path": "landcover/N15E121.lcv",
+   "bytes": 75021,
+   "sha256": "edb9a5af451a2e808632f650ee7325d5692feffa75bdad791f6804448c2739e4"
   },
   {
    "path": "topo.pmtiles",
