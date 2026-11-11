@@ -1,0 +1,24 @@
+{
+ "region": "cells-ph",
+ "name": "Philippines cell towers",
+ "kind": "cells",
+ "version": "2026-11-11",
+ "bbox": [
+  116.9,
+  4.5,
+  126.7,
+  21.2
+ ],
+ "files": [
+  {
+   "path": "cells/515.cel",
+   "bytes": 2003028,
+   "sha256": "d71b532351ae7feabe09f58ec6c963776a4792f03d1714c1c5cdf56f956f88d2"
+  },
+  {
+   "path": "cells/ATTRIBUTION.txt",
+   "bytes": 1065,
+   "sha256": "2a95ae92a236841ef65b8d24184dcdcc65dbd2fe5f622dca0b35ffac39a8df1e"
+  }
+ ]
+}

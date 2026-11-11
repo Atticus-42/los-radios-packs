@@ -1,0 +1,15 @@
+Cell tower positions in this pack (cells/515.cel)
+
+Source: OpenCelliD Project, https://opencellid.org
+Licence: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), https://creativecommons.org/licenses/by-sa/4.0/
+Credit: "OpenCelliD Project is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License"
+
+Changes made by Los Radios: only Philippine networks (MCC 515) are kept; rows with an unknown radio type, unusable
+coordinates or a position outside the Philippines are removed; where the same cell appears more than once only the
+most recently updated row is kept; the averageSignal and changeable columns are dropped; the rows are re-encoded in
+the binary .cel v1 format, sorted by network and latitude. No positions or values were altered.
+The "range" value is OpenCelliD's estimate of how far a tower's position may be off. It is not coverage, and the app
+never uses it as coverage.
+
+This pack is shared under the same licence, CC BY-SA 4.0.
+Built 2026-11-11 from the OpenCelliD Philippines export: 45523 towers.
