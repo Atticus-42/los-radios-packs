@@ -1,0 +1,44 @@
+{
+ "kind": "imagery",
+ "region": "test-luzon",
+ "version": "2026-11-25",
+ "source": "copernicus-s2-l2a-2026",
+ "format": "webp",
+ "minzoom": 8,
+ "maxzoom": 14,
+ "tileSize": 256,
+ "bbox": [
+  120,
+  14,
+  122,
+  16
+ ],
+ "totalBytes": 80315969,
+ "attribution": "Contains modified Copernicus Sentinel data 2026",
+ "cells": [
+  {
+   "key": "N14E120",
+   "path": "N14E120.pmtiles",
+   "bytes": 15893064,
+   "sha256": "2506b66055521899e44fa9d25fd6872af8e28bd351ad9758fb1474ab8cb37212"
+  },
+  {
+   "key": "N14E121",
+   "path": "N14E121.pmtiles",
+   "bytes": 19338569,
+   "sha256": "a0616636e35c15c1921e135fb7909bd01664acff4740aceda211f08b2bfa9a99"
+  },
+  {
+   "key": "N15E120",
+   "path": "N15E120.pmtiles",
+   "bytes": 29063560,
+   "sha256": "dc4864ccd1f62be082d01d772ea58341f1fe1bc969443ecce021c578fa10bcfe"
+  },
+  {
+   "key": "N15E121",
+   "path": "N15E121.pmtiles",
+   "bytes": 16020776,
+   "sha256": "6f6c8caf1fc3f0467b2a90389c1e1fbbb28fd7c33c49ce908b1b5c07ed415ab8"
+  }
+ ]
+}
